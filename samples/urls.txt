@@ -1,0 +1,9 @@
+http://192.168.1.10/login
+https://www.youtube.com/
+http://paypal-login.security-check.com
+http://xn--pple-43d.com/login
+http://this.is.a.very.long.subdomain.example.com/some/path
+http://example.zip/login
+https://expired.badssl.com/
+http://user@evil.com/login
+https://paypal.com
